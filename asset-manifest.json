@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85a6072b.css",
+    "main.js": "/static/js/main.ee2726ca.js",
+    "static/media/fondo.jpg": "/static/media/fondo.a3732514b0daecc1c56c.jpg",
+    "static/media/LoMT-logo-blanco.png": "/static/media/LoMT-logo-blanco.c6a26365d1a3dc7bf7c5.png",
+    "index.html": "/index.html",
+    "main.85a6072b.css.map": "/static/css/main.85a6072b.css.map",
+    "main.ee2726ca.js.map": "/static/js/main.ee2726ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a6072b.css",
+    "static/js/main.ee2726ca.js"
+  ]
+}
